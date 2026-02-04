@@ -1,6 +1,6 @@
-# Frontend Technical Assessment - Next.js Project
+# Next.js Project
 
-This project is a **frontend assessment** built using:
+This is built using:
 
 - **Next.js (App Router)**  
 - **Material-UI (MUI)**  
@@ -34,7 +34,3 @@ Usage:
     /dashboard/products → Products List
     /dashboard/products/[id] → Single Product Details
     /dashboard/users/[id] → Single User Details
-
-Known Limitations:
-    UI can be improved for better aesthetics and responsiveness
-    Limited time prevented implementing advanced animations or theme customizations
